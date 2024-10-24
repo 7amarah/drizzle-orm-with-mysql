@@ -1,1 +1,1 @@
-# auth-service
+# A project to test the generation and migration of tables to MySQL database using drizzle orm depending on the version of drizzle orm and drizzle kit tool used 
